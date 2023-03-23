@@ -1,8 +1,8 @@
 Hi there 👋
 
  -:mortar_board: I’m Student Of BS(CS) In Bahria University.
-- 🌱 I’m currently learning WebDevelopment.
-- 👯 I’m looking to collaborate on GItHUB.
+- :computer: I’m currently learning WebDevelopment.
+- :two_men_holding_hands: I’m looking to collaborate on GItHUB.
 
 
 
